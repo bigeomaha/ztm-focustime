@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ztm-focustime",
+    "slug": "ztm-focustime",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
